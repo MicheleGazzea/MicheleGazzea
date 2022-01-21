@@ -1,5 +1,5 @@
 Hi there! 👋
-I’m MicheleGazzea, control engineer currenlty doing a PhD at the Western Norway University of Applied Sciences in Bergen, Norway.
+I’m Michele Gazzea, control engineer currenlty doing a PhD at the Western Norway University of Applied Sciences in Bergen, Norway.
 I’m currently working on machine learning and computer vision application for remote sensing and earth observations.
 📫 You can reach me by email at mgaz@hvl.no
 
