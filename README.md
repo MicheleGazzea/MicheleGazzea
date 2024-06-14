@@ -1,7 +1,7 @@
 Hi there! 👋
-I’m Michele Gazzea, control engineer currenlty doing a PhD at the Western Norway University of Applied Sciences in Bergen, Norway.
-I’m currently working on machine learning and computer vision application for remote sensing and earth observations.
-📫 You can reach me by email at mgaz@hvl.no
+I’m Michele Gazzea, control engineer and data scientist.
+I’m currently working on machine learning and computer vision applications for remote sensing and earth observations.
+📫 You can reach me by email at `michele.gazzea@gmail.com`
 
 <!---
 MicheleGazzea/MicheleGazzea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
